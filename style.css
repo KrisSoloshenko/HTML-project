@@ -1,0 +1,46 @@
+.header {
+	background-color: RosyBrown;
+	padding: 20px;
+}
+
+.navigation li{
+	display: inline;
+	color: white;
+}
+
+.navigation li a{
+    color: white;
+	padding: 5px;
+	font-size: 18px;
+}
+
+.navigation div{
+	float: right;
+	font-size: 28px;
+}
+
+.navigation a:hover{
+    background-color: gray;
+    color: white;
+}
+
+body {
+	background-color: Snow;
+	font-family: helvetica, coolsville, chicago;
+}
+
+.content{
+	color: gray;
+	padding: 10px;
+	min-height: 80vh;
+	
+}
+
+.content img{
+	height: 30em;
+	padding: 20px;
+}
+
+.content a{
+	color: RosyBrown
+}
